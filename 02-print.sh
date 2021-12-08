@@ -23,3 +23,4 @@ echo hello world
 echo -e "\e[31mHello In Red color\e[0m"
 echo -e "\e[32mHello In Green color\e[0m"
 echo -e "\e[33mHello In Yellow color\e[0m"
+echo -e "\e[5mHeloo\e[0m"
