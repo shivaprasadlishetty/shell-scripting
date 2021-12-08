@@ -15,3 +15,5 @@ echo a in currency = ${a}USD
 
 DATE = 2021-12-08
 echo Good morning ,welcome,Today date is ${DATE}
+ADD=${(2+3)}
+echo ADD = ${ADD}
